@@ -11,4 +11,4 @@ Organizations register a cryptographic identity on a blockchain registry. Their 
 React, Node.js + Express, Ed25519 signatures, Solidity (Polygon Amoy testnet), ethers.js, PostgreSQL
 
 ## Status
-HackSprint 2K26 entry (Web3 & Cybersecurity track). Code will be committed during the hackathon.
+Concept submitted for HackSprint 2K26 (Web3 & Cybersecurity track). Code will be added as it is built.
